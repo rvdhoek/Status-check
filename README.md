@@ -1,2 +1,2 @@
 # Status-check
-Status check twitch
+Status check to know if a user is online 
